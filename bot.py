@@ -21,4 +21,4 @@ async def on_member_remove(member):
     channel = bot.get_channel(989811995593285663)
     await channel.send(f'{member} leave!')
 
-bot.run("OTg2MTA3Mjc2NDA0MzMwNDk2.G4KN1p.cKyyMHndH8Vg3ehdxwsKYPipE67wDyODSqTLnI")
+bot.run("")
